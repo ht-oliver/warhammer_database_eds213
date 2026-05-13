@@ -56,10 +56,11 @@ Download the following four tables and place them in the `data/` folder:
 
 ## Directions for Use
 
-1. Download the four CSV files listed above and place them in the `data/` folder
-2. Run `data_cleaning.ipynb` from top to bottom
+1. Create a folder called `data` in the project root directory
+2. Download the four CSV files listed above and place them in the `data/` folder
+3. Run `data_cleaning.ipynb` from top to bottom
    - Cleans the raw data, exports parquet files to `outputs/`, and creates `wh_database.duckdb` in the project root
-3. Open `viz.R` in RStudio and run the script (`Ctrl+Shift+Enter`)
+4. Open `viz.R` in RStudio and run the script (`Ctrl+Shift+Enter`)
    - The visualization will render in the RStudio Plots pane
 
 > Note: Run all scripts from the project root directory to ensure relative file paths resolve correctly.
