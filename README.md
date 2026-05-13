@@ -70,6 +70,7 @@ Download the following four tables and place them in the `data/` folder:
 ## References
 
 - Wahapedia Warhammer 40K Dataset: https://www.kaggle.com/datasets/theredmage/warhammer-40k
+- Class Website: https://ucsb-library-research-data-services.github.io/bren-eds213/
 
 ---
 
