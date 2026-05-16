@@ -67,6 +67,9 @@ Download the following four tables and place them in the `data/` folder:
 
 ---
 
+## Database Schema
+![Schema diagram](figures/schema.png)
+
 ## References
 
 - Wahapedia Warhammer 40K Dataset: https://www.kaggle.com/datasets/theredmage/warhammer-40k
