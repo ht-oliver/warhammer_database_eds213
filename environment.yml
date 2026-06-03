@@ -1,4 +1,4 @@
-name: base
+name: warhammer_env
 channels:
   - defaults
   - conda-forge
